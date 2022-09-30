@@ -9,7 +9,7 @@ import com.imooc.ad.vo.AdPlanResponse;
 import java.util.List;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public interface IAdPlanService {
 

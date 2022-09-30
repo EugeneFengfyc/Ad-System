@@ -6,7 +6,7 @@ package com.imooc.ad;
 //
 ///**
 // * <h1>关闭 security 的 csrf 校验</h1>
-// * Created by Qinyi.
+// * Created by Eugene Feng
 // */
 //@EnableWebSecurity
 //public class WebSecurityConfig extends WebSecurityConfigurerAdapter {

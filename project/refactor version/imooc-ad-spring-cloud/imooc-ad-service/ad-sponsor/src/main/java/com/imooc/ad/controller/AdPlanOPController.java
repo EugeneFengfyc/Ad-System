@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Slf4j
 @RestController

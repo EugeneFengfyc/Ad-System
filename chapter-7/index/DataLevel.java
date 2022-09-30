@@ -3,7 +3,7 @@ package com.imooc.ad.index;
 import lombok.Getter;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Getter
 public enum DataLevel {

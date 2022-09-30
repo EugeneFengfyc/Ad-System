@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public class MyConsumer {
 

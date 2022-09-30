@@ -1,7 +1,7 @@
 package com.imooc.ad.constant;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public class Constants {
 

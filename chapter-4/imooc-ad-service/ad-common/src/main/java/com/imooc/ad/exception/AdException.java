@@ -1,7 +1,7 @@
 package com.imooc.ad.exception;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public class AdException extends Exception {
 

@@ -21,7 +21,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Service
 public class AdPlanServiceImpl implements IAdPlanService {

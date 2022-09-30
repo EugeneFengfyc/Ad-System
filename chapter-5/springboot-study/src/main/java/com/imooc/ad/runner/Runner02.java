@@ -6,7 +6,7 @@ import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Order(value = 2)
 @Component

@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Data
 @NoArgsConstructor

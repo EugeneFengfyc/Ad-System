@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * <h1>字段值到实体类的映射工具类</h1>
- * Created by Qinyi.
+ * .
  */
 public class MapToEntity {
 

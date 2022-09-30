@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * <h1>SpringBoot 应用启动程序</h1>
- * Created by Qinyi.
+ * .
  */
 @SpringBootApplication
 public class Application {

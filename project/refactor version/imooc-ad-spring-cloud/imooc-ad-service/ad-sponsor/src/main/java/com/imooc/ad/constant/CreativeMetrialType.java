@@ -3,7 +3,7 @@ package com.imooc.ad.constant;
 import lombok.Getter;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Getter
 public enum CreativeMetrialType {

@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Data
 @NoArgsConstructor

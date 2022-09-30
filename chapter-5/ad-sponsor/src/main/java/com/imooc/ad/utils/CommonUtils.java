@@ -7,7 +7,7 @@ import org.apache.commons.lang.time.DateUtils;
 import java.util.Date;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public class CommonUtils {
 

@@ -4,7 +4,7 @@ import com.imooc.extra.exception.CustomException;
 
 /**
  * <h1>Spring Transactional 测试接口定义</h1>
- * Created by Qinyi.
+ * .
  */
 public interface ISpringTransaction {
 

@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * <h1>Binlog Kafka 引用启动程序</h1>
- * Created by Qinyi.
+ * .
  */
 @EnableEurekaClient
 @SpringBootApplication

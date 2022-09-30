@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Slf4j
 @Component

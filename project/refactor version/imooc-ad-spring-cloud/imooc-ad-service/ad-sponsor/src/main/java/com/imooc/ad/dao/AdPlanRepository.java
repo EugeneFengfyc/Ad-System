@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public interface AdPlanRepository extends JpaRepository<AdPlan, Long> {
 

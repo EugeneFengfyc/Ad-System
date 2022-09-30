@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Created by Qinyi.
+ * Created by Eugene Feng
  */
 @EnableFeignClients
 @EnableEurekaClient

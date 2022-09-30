@@ -16,7 +16,7 @@ import java.io.Serializable;
 
 /**
  * <h1>worker 表实体类</h1>
- * Created by Qinyi.
+ * .
  */
 @Data
 @NoArgsConstructor

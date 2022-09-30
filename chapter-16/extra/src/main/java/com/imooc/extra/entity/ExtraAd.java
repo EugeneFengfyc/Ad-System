@@ -14,7 +14,7 @@ import javax.persistence.Table;
 
 /**
  * <h1>额外表实体类定义</h1>
- * Created by Qinyi.
+ * .
  */
 @Data
 @NoArgsConstructor

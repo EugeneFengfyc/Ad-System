@@ -12,7 +12,7 @@ import org.springframework.transaction.interceptor.TransactionAspectSupport;
 
 /**
  * <h1>Spring Transactional 测试接口实现</h1>
- * Created by Qinyi.
+ * .
  */
 @Slf4j
 @Service

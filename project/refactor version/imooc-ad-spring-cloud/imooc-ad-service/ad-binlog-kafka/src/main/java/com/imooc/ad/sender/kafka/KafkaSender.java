@@ -10,7 +10,7 @@ import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Slf4j
 @Component

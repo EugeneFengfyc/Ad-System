@@ -13,7 +13,7 @@ import com.imooc.ad.vo.CreativeUnitRequest;
 import com.imooc.ad.vo.CreativeUnitResponse;
 
 /**
- * Created by Qinyi.
+ * .
  */
 public interface IAdUnitService {
 

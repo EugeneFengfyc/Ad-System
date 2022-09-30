@@ -1,7 +1,7 @@
 package com.imooc.ad.index;
 
 /**
- * Created by Qinyi.
+ * Created by Eugene Feng
  */
 public interface IndexAware<K, V> {
 

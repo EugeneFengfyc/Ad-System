@@ -19,7 +19,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.List;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Slf4j
 @RestController

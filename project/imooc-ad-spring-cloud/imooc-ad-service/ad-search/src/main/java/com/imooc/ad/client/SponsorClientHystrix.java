@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Component
 public class SponsorClientHystrix implements SponsorClient {

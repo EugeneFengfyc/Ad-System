@@ -14,7 +14,7 @@ import javax.persistence.Table;
 import java.util.Date;
 
 /**
- * Created by Qinyi.
+ * .
  */
 @Data
 @NoArgsConstructor

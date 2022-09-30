@@ -23,7 +23,7 @@ import java.util.Map;
 
 /**
  * <h1>Worker Jpa 功能测试</h1>
- * Created by Qinyi.
+ * .
  */
 @Slf4j
 @RunWith(SpringRunner.class)

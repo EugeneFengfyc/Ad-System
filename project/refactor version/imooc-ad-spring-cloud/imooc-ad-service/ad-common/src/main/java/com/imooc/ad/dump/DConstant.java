@@ -1,7 +1,7 @@
 package com.imooc.ad.dump;
 
 /**
- * Created by Qinyi.
+ * Created by Eugene Feng
  */
 public class DConstant {
 
